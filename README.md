@@ -49,7 +49,6 @@
 ## How To Use
 
 - Clone the project and run it on Xcode 12 or above
-- Enable HealthKit if you want to connect it
 - ...
 ---
 
